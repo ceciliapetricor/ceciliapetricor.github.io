@@ -132,6 +132,7 @@ A la idea inicial del museo virtual a modo de portafolio, le añado lo siguiente
 La mayor dificultad que encontré para realizar el proyecto es la optimización de todos los recursos usados, ya que partía de vídeos e imágenes de gran peso. Por ello, he debido reducir a un alto porcentaje los vídeos añadidos, por lo que la resolución de los mismos no es la máxima.
 
 
+
 # 4. Conclusiones 
 
 El desarrollo de este proyecto ha sido una experiencia muy satifactoria, debido a que personalmente he explorado otras formas de compartir y de comunicar a través de la web las obras que creo, ya que aunque no seas un creador digital, en el mundo del arte actual es muy útil conocer los medios digitales para la difusión de tu obra de una forma profesional. Este ha sido un primer acercamiento a la materia, y a pesar de que puede ser mejorable, estoy satisfecha con el producto final, ya que creo que tiene bastante coherencia visual, y es fácil comprender cómo se navega en él.
@@ -141,15 +142,11 @@ De hecho, creo que en un futuro incorporaré elementos interactivos al hacer mi 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Sonido: sound effects sin Copyright extraídos de pixabay.
-* Imágenes: todas las imágenes, exceptuando los fondos  e imágenes de la segunda animación antes del menú principal (sacados previamente de PIXABAY), son de diseño propio.
+* Música:  sin Copyright extraída de [Pixabay](https://pixabay.com/es/) y la biblioteca de sonido de Youtube.
+* Sonido: sound effects sin Copyright extraídos de [Pixabay](https://pixabay.com/es/).
+* Imágenes: todas las imágenes, exceptuando los fondos  e imágenes de la segunda animación antes del menú principal (sacados previamente de [Pixabay](https://pixabay.com/es/)), son de diseño propio.
 * Tipografía: Tahoma (internet safe)
 Reanie Beanie (Google font)
 
@@ -157,15 +154,13 @@ Reanie Beanie (Google font)
 **Herramientas utilizadas**
 
 * Hippani Animator 5.1
-* Photoshop
-* Premiere
-* Hippani Animator 5.1.
-* Audacity
+* Adobe Photoshop CC 2020
+* Adobe Premiere CC 2020 14.9
+* Audacity 3.1.3
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![licencia](https://github.com/ceciliapetricor/ceciliapetricor.github.io/blob/master/documentaci%C3%B3n/Creative%20Commons.png)
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2020
+Junio 2022
