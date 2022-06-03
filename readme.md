@@ -95,6 +95,8 @@ Por tanto, el proyecto está pensado para que la galería sea el apartado princi
 
 **Estética empleada**
 
+![moodboard](https://github.com/ceciliapetricor/ceciliapetricor.github.io/blob/master/documentaci%C3%B3n/moodboard.jpg)
+
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
