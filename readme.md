@@ -14,31 +14,31 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Cecilia Casas Gómez
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca crear un portafolio interactivo, en el que además de introducir la obra personal, también se enfoque de modo didáctico para aquellas personas interesadas en el arte. Por ello se introducen datos técnicos sobre la propia elaboración de las obras que ayudan al espectador a sumergirse en el mundo del artista.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Portafolio artístico.
 
 **Logotipo** : 
 
 ![Logotipo](https://github.com/ceciliapetricor/ceciliapetricor.github.io/blob/master/documentaci%C3%B3n/logo.png)
 
-El logotipo hace referencia a la marca personal del artista, que forma parte del ideario visual de su imagen, y diferentes productos que cree.
+El logotipo hace referencia a la marca personal del artista, que forma parte del ideario visual de su imagen. Es un logotipo anterior al propio proyecto y que está presente en el resto de redes sociales o productos de la misma.
 
 
 
-**Resolución:** 800x600px tamaño fijo y reescalable
+**Resolución:** 800x600px tamaño fijo y reescalable.
 
-**Probado en:**   Google Chrome / MS Edge / Opera / móviles android 
+**Probado en:**   Google Chrome / MS Edge / Opera / móviles android. 
 
 **Tamaño proyecto:** 18.7 MB 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual sin fines comerciales (CC BY-NC-SA 4.0).
 
 **Fecha** : 3/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
-- Github:
+- Github: https://github.com/ceciliapetricor
 - Instagram: https://www.instagram.com/ceciliapetricor/
 - Youtube: https://www.youtube.com/channel/UC15dxIb0O_OcFILImJMqhZw
 
@@ -78,7 +78,7 @@ El quiz está elaborado a partir de datos sacados de los audios de galería, por
 
 ### 2.2. Esquema de navegación 
 
-En cuanto al esquema de navegación, tras la intro, nos encontramos un menú al rededor del cuál se organizan los diferentes apartados, y al cuál siempre podemos volver. Algunos de ellos como el Quiz está ligado también a la galería.
+En cuanto al esquema de navegación, tras la intro, nos encontramos un menú alrededor del cuál se organizan los diferentes apartados, y al cuál siempre podemos volver. Algunos de ellos como el quiz están ligados también a la galería.
 
 ![Esquema de Navegación](https://github.com/ceciliapetricor/ceciliapetricor.github.io/blob/master/documentaci%C3%B3n/esquemanavegaci%C3%B3n.jpg)
 
@@ -90,36 +90,34 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 **Etapa 1: Ideación de un proyecto**
 
 Partimos de la propuesta común para crear un producto multimedia basado basado en una metodología de UX (User Experience). Mi primera idea fue la creación de un portafolio, el cuál además de ser una presentación de trabajos y proyectos fuera además una especie de museo virtual en el que se incluyese gran parte de contenido didáctico, y se viera todo lo que hay detrás del trabajo de un artista, tanto el proceso, como curiosidades técnicas y los materiales que usa.
-Así resultaría interesante para el espectador interesado en el arte, descubrir todo un universo que hay tras unas obras, haciendo del portafolio algo totalmente interactivo, ya que este se puede dirigir a los apartados que llamen más su atención mediante los diferentes botones.
+
+**Motivación de la propuesta**
+
+Este proyecto resultaría interesante para el espectador interesado en el arte,  porque descubriría todo un ideario personal que hay tras unas obras, en un producto interactivo, ya que este se puede dirigir a los apartados que llamen más su atención mediante los diferentes botones.
 Por tanto, el proyecto está pensado para que la galería sea el apartado principal, en ella encontraremos las obras, con su ficha técnica, y un podcast o vídeo en la que se habla sobre ellas. Todo ello acompañado de música y sonidos que hacen más interesante la visita.
+
+**Público/Audiencia** 
+
+Orientado a personas interesadas en arte.
 
 **Estética empleada**
 
 ![moodboard](https://github.com/ceciliapetricor/ceciliapetricor.github.io/blob/master/documentaci%C3%B3n/moodboard.jpg)
 
+En cuanto a la estética empleada he de decir que he intentado combinar tanto elementos elegantes como otros más informales para dar así cuenta de ese mundo entre el taller del artista y el museo.
+
+
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Yul Moreau](http://y78.fr/) para idear cómo organizar el material
+- Portfolio [Yul Moreau](http://y78.fr/)
 - Portfolio [Malika Favre](https://www.malikafavre.com/) en el uso del color, y diseño.
-- [Legwork Studio](https://www.legworkstudio.com/) en cómo combina una estética de boceto e imágenes fotográficas.
+- Portfolio [Legwork Studio](https://www.legworkstudio.com/) en cómo combina una estética de boceto e imágenes fotográficas.
 
-
-
-**Motivación de la propuesta** 
-
-Este  proyecto es interesante porque ... 
-
-
-
-**Publico / audiencia**
-
-Orientado a personas interesadas en el arte. 
 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 A la idea inicial del museo virtual a modo de portafolio, le añado lo siguiente:
 
@@ -132,7 +130,7 @@ A la idea inicial del museo virtual a modo de portafolio, le añado lo siguiente
 
 ### Etapa 3: Problemas identificados
 
-La mayor dificultad que encontré para realizar el proyecto es la optimización de todos los recursos usados, ya que partía de vídeos e imágenes de gran peso. Por ello, he debido reducir a un alto porcentaje los vídeos añadidos, por lo que la resolución de los mismos no es la máxima.
+La mayor dificultad que encontré para realizar el proyecto es la optimización de todos los recursos usados, ya que partía de vídeos e imágenes de gran peso. Por ello, he debido reducir a un alto porcentaje los vídeos añadidos, por lo que la resolución de los mismos no es la máxima. 
 
 
 
