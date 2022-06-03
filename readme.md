@@ -26,11 +26,11 @@ El logotipo hace referencia a la marca personal del artista, que forma parte del
 
 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px tamaño fijo y reescalable
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome / MS Edge / Opera / móviles android 
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 18.7 MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -39,7 +39,8 @@ El logotipo hace referencia a la marca personal del artista, que forma parte del
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Instagram:
+- Instagram: https://www.instagram.com/ceciliapetricor/
+- Youtube: https://www.youtube.com/channel/UC15dxIb0O_OcFILImJMqhZw
 
 
 # 2. Memoria del proyecto 
@@ -85,13 +86,16 @@ En cuanto al esquema de navegación, tras la intro, nos encontramos un menú al 
 # 3. Metodología
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+
 **Etapa 1: Ideación de un proyecto**
 
 Partimos de la propuesta común para crear un producto multimedia basado basado en una metodología de UX (User Experience). Mi primera idea fue la creación de un portafolio, el cuál además de ser una presentación de trabajos y proyectos fuera además una especie de museo virtual en el que se incluyese gran parte de contenido didáctico, y se viera todo lo que hay detrás del trabajo de un artista, tanto el proceso, como curiosidades técnicas y los materiales que usa.
 Así resultaría interesante para el espectador interesado en el arte, descubrir todo un universo que hay tras unas obras, haciendo del portafolio algo totalmente interactivo, ya que este se puede dirigir a los apartados que llamen más su atención mediante los diferentes botones.
 Por tanto, el proyecto está pensado para que la galería sea el apartado principal, en ella encontraremos las obras, con su ficha técnica, y un podcast o vídeo en la que se habla sobre ellas. Todo ello acompañado de música y sonidos que hacen más interesante la visita.
 
-En cuanto a la estética, debo decir que está centrada en un contenido didáctico.
+**Estética empleada**
+
+
 
 
 
