@@ -99,8 +99,9 @@ Por tanto, el proyecto está pensado para que la galería sea el apartado princi
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Portfolio [Yul Moreau](http://y78.fr/) para idear cómo organizar el material
+- Portfolio [Malika Favre](https://www.malikafavre.com/) en el uso del color, y diseño.
+- [Legwork Studio](https://www.legworkstudio.com/) en cómo combina una estética de boceto e imágenes fotográficas.
 
 
 
@@ -148,7 +149,7 @@ De hecho, creo que en un futuro incorporaré elementos interactivos al hacer mi 
 
 * Música:  sin Copyright extraída de [Pixabay](https://pixabay.com/es/) y la biblioteca de sonido de Youtube.
 * Sonido: sound effects sin Copyright extraídos de [Pixabay](https://pixabay.com/es/).
-* Imágenes: todas las imágenes, exceptuando los fondos  e imágenes de la segunda animación antes del menú principal (sacados previamente de [Pixabay](https://pixabay.com/es/)), son de diseño propio.
+* Imágenes: todas las imágenes, exceptuando los fondos e imágenes de la segunda animación antes del menú principal (sacados previamente de [Pixabay](https://pixabay.com/es/)), son de diseño propio.
 * Tipografía: Tahoma (internet safe)
 Reanie Beanie (Google font)
 
