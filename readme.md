@@ -160,6 +160,7 @@ Reanie Beanie (Google font)
 
 
 ![licencia](https://github.com/ceciliapetricor/ceciliapetricor.github.io/blob/master/documentaci%C3%B3n/Creative%20Commons.png)
+
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Junio 2022
