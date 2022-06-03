@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Mi Portafolio
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,15 +8,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Mi Portafolio
 
-**Web:**   (url github.io)
+**Web:**   https://ceciliapetricor.github.io/
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Cecilia Casas Gómez
 
 **Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Portfolio / arte didáctico.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
