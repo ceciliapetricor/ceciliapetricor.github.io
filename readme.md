@@ -85,8 +85,6 @@ En cuanto al esquema de navegación, tras la intro, nos encontramos un menú alr
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
 **Etapa 1: Ideación de un proyecto**
 
 Partimos de la propuesta común para crear un producto multimedia basado basado en una metodología de UX (User Experience). Mi primera idea fue la creación de un portafolio, el cuál además de ser una presentación de trabajos y proyectos fuera además una especie de museo virtual en el que se incluyese gran parte de contenido didáctico, y se viera todo lo que hay detrás del trabajo de un artista, tanto el proceso, como curiosidades técnicas y los materiales que usa.
