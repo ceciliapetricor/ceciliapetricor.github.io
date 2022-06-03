@@ -95,12 +95,6 @@ Por tanto, el proyecto está pensado para que la galería sea el apartado princi
 
 **Estética empleada**
 
-
-
-
-
-### Etapa 1: Ideación de proyecto
-
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
@@ -116,9 +110,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
+Orientado a personas interesadas en el arte. 
 
 
 
@@ -126,27 +118,24 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+A la idea inicial del museo virtual a modo de portafolio, le añado lo siguiente:
 
+- Menús y elementos de navegación (botones con sonidos)
+- Quiz (juego con puntuación), en el que a modo de pequeño juego provocamos interés en el espectador para que visite la galería y escuche los podcast.
+- Apartado de extras donde él mismo podrá desplazarse a lo largo de la mesa de trabajo para descubrir qué materiales uso. 
+- Vídeos del proceso de dos obras.
+- Música de fondo y audios en forma de podcast.
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+La mayor dificultad que encontré para realizar el proyecto es la optimización de todos los recursos usados, ya que partía de vídeos e imágenes de gran peso. Por ello, he debido reducir a un alto porcentaje los vídeos añadidos, por lo que la resolución de los mismos no es la máxima.
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
+El desarrollo de este proyecto ha sido una experiencia muy satifactoria, debido a que personalmente he explorado otras formas de compartir y de comunicar a través de la web las obras que creo, ya que aunque no seas un creador digital, en el mundo del arte actual es muy útil conocer los medios digitales para la difusión de tu obra de una forma profesional. Este ha sido un primer acercamiento a la materia, y a pesar de que puede ser mejorable, estoy satisfecha con el producto final, ya que creo que tiene bastante coherencia visual, y es fácil comprender cómo se navega en él.
+De hecho, creo que en un futuro incorporaré elementos interactivos al hacer mi propio portafolio profesional.
 
 
 
@@ -159,13 +148,19 @@ Este  proyecto es interesante porque ...
 **Recursos y materiales audiovisuales:**
 
 * Musica:  
-* Imágenes:  
-* Tipografía
+* Sonido: sound effects sin Copyright extraídos de pixabay.
+* Imágenes: todas las imágenes, exceptuando los fondos  e imágenes de la segunda animación antes del menú principal (sacados previamente de PIXABAY), son de diseño propio.
+* Tipografía: Tahoma (internet safe)
+Reanie Beanie (Google font)
+
 
 **Herramientas utilizadas**
 
-- Hippani Animator 5.1
-- 
+* Hippani Animator 5.1
+* Photoshop
+* Premiere
+* Hippani Animator 5.1.
+* Audacity
 
 
 
