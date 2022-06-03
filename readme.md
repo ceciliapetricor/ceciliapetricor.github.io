@@ -11,7 +11,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Titulo** : Mi portafolio
 
 **Web:**   https://ceciliapetricor.github.io/
+
 **Autor:**  Cecilia Casas Gómez
+
 **Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
@@ -37,16 +39,34 @@ El logotipo hace referencia a la marca personal del artista, que forma parte del
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+- Instagram:
 
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+
+Previamente a la elaboración del portafolio, elaboré un storyboard en el cuál establecer tanto la estética como interacciones principales del proyecto. 
+![Storyboard del proyecto](https://github.com/ceciliapetricor/ceciliapetricor.github.io/blob/master/documentaci%C3%B3n/storyboard.jpg)
+
+Al entrar en el portafolio, lo primero que nos encontramos es una animación en la que aparece la artista, para presentar el portafolio y su trabajo.
+
+![Intro animada](https://github.com/ceciliapetricor/ceciliapetricor.github.io/blob/master/documentaci%C3%B3n/capanimaci%C3%B3n1.png)
+
+Tras pasar esa animación entra otra en la que brevemente se hace un pequeño anuncio de las obras que se verán en el portafolio en la galería, y ello nos lleva al menú principal en el que encontramos diferentes apartados del proyecto. Esta parte incluye diferentes secciones: galería, créditos, proceso, extras y  un quiz.
+
+![Menú](https://github.com/ceciliapetricor/ceciliapetricor.github.io/blob/master/documentaci%C3%B3n/capanimaci%C3%B3n2.png)
+
+En la galería, vemos las diferentes obras de las que se compone el portafolio, en ella se incluye una ficha técnica con los datos de la obra y un audio que funciona como un pequeño podcast, en el que explico otros datos de cada una. En la última obra también se incluye un enlace a un video.
+
+![Galería](https://github.com/ceciliapetricor/ceciliapetricor.github.io/blob/master/documentaci%C3%B3n/capgaler%C3%ADa.png)
+
+
+
+
+
+
+
 
 
 
