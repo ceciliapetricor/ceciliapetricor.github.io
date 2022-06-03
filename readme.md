@@ -20,8 +20,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ![Logotipo](https://github.com/ceciliapetricor/ceciliapetricor.github.io/blob/master/documentaci%C3%B3n/logo.png)
 
+El logotipo hace referencia a la marca personal del artista, que forma parte del ideario visual de su imagen, y diferentes productos que cree.
 
-(insertar imágenes a resolucion de 100px alto)
+
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
@@ -31,7 +32,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 3/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -49,15 +50,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
-
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![Esquema de Navegación](https://github.com/ceciliapetricor/ceciliapetricor.github.io/blob/master/documentaci%C3%B3n/esquemanavegaci%C3%B3n.jpg)
 
 
 
