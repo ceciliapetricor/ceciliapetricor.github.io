@@ -6,7 +6,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 1 Datos 
 
-![Página principal](https://drive.google.com/file/d/1skVcvyyXdBGXknMWVhypswZ6nQSrrO1f/view?usp=sharing)
+
 
 **Titulo** : MI Proyecto(nombre)
 
